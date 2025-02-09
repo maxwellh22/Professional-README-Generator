@@ -1,40 +1,45 @@
-# Professional README Generator
+# Professional READMe Generator
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
   
-  This is a Command Line Application that utilizes node.js to create professional README's for you quickly and easily.
+  This is a command line application that can help developers quickly and easily generate README.md files for their projects.
   
   ## Table of Contents
   
   - [Installation](#installation)
   - [Usage](#usage)
-  [License](#license)
+  - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
+  - [Video](#video)
   - [Questions](#questions)
   
   ## Installation
   
-  You will need to install normall npm dependencies as well as node.js on your computer to make this application work. 
+  Once you copy the code from the Github repo, if you run npm install it will install all required dependencies for the project.
   
   ## Usage
   
-  To use this application, type node index.js into your command line once you have navigated to the proper directory. Then you will answer the prompted questions to create your README.
+  You can use this CLI application to quickly generate README's for your projects. To invoke the application, simply type "node index.js" into the terminal tab of your command line (with the correct repo selected), and the application will run (as long as you have installed the required dependencies).
   
   ## License
 
-This project is licensed under the MIT license.
+  This project is licensed under the MIT license.
   
   ## Contributing
   
-  You may use  this application but please do not edit the code!
+  You are free to copy and use this application, but do not attempt to edit the code in the repo!
   
   ## Tests
   
-  Simply type node index.js into your terminal and the application will run.
+  To test the application, open a new terminal tab at the correct project folder location on your computer, and type "node index.js" to run the application.
+
+  ## Video
+
+  Here is a link to the video walkthrough I took on Screencastify: https://app.screencastify.com/v3/watch/lV85t2XTZ3tsnBawVXQS 
   
-  ## Questions
+  ## Questions / Contact
   
   For additional questions, you can reach me at:
   
